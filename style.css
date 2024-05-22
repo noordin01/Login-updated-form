@@ -1,0 +1,17 @@
+.wadza{
+    background-color: black;
+    color: white;
+    font-family: arial;
+    font-size: 14px;
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    margin: 400px;
+    margin-top: 150px;
+    position: fixed;
+    
+}
+input[type=submit]{
+    background-color: #02fdfd;
+    border-radius:5px ;
+}
